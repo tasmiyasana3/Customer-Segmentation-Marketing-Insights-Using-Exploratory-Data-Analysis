@@ -74,7 +74,7 @@ Further analysis can improve by collecting extra data on:
 - Customer retention and upgrade patterns
 
 ## Project Files
-- `AUSTO_BUSINESS_REPORT_CODED_TS.pdf` - Final business report
+- `AUSTO_BUSINESS_REPORT_CODED_TS.pdf` - Detailed business report
 - `AutsoMotor_Coded_Project_TS.ipynb` - Python analysis notebook
 - `Autso_automobile.csv` - Dataset csv file
 - `README.md` - Project documentation
